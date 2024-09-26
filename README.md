@@ -19,5 +19,5 @@ To predict the winner of 2023 finals or any other match, we do the following ste
 8.	We use this model to predict the winner of 2023 final match.
 
 CONCLUSION:
-The conclusion shows us that based on the team we are playing against- Australia and the Venue- Ahmedabad, India is going to lose the ICC World Cup 2023 Final. This model has 70% accuracy.
+The conclusion shows us that based on the team India is playing against- Australia and the Venue- Ahmedabad, India is going to lose the ICC World Cup 2023 Final. This model has 70% accuracy.
 To reproduce the project, load the ipynb file in Google Collab, upload all the datasets and run the code.

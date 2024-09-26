@@ -4,7 +4,7 @@ AIM:
 The aim of this project is to predict the winner of an ICC world cup match, in this case the final match between India and Australia based on the venue and which team we are playing against using Logistic Regression. 
 
 DATASET:
-The dataset has been taken from Kaggle and consists of all the matches ever played in the history of ICC World cup as of now. https://www.kaggle.com/datasets/sujithmandala/credit-score-classification-dataset
+The dataset has been taken from Kaggle and consists of all the matches ever played in the history of ICC World cup as of now. https://www.kaggle.com/datasets/amalab182/cricket-world-cup-scores1975-2019
 The dataset contains all match data from 1975-2019 in separate files for each year.
 
 STEPS:
